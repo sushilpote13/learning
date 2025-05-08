@@ -1,4 +1,4 @@
-Here’s an example of a **README.md** file you can use for your GitHub project:
+
 
 ---
 
@@ -88,7 +88,7 @@ This project is open-source and available under the MIT License.
 
 ### Instructions:
 
-* Replace `your-username` with your GitHub username in the clone URL.
+* Replace `sushilpote13` with your GitHub username in the clone URL.
 * Make sure to update the file names or structure if you change anything in the code.
 
-This README will give users clear instructions on how to run and contribute to the project, as well as a basic understanding of the game.
+
